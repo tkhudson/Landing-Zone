@@ -1,4 +1,4 @@
-# Hudson IT Consulting – Secure Azure Landing Zone Blueprint
+# Secure Azure Landing Zone Blueprint
 
 This repository serves as a public placeholder and documentation reference for the secure Azure landing zone blueprint that I designed and built for Hudson IT Consulting.
 
