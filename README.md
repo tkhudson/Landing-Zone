@@ -16,7 +16,21 @@ The actual Terraform code, modules, variables, configuration files, and sensitiv
 - Basic Azure Policy enforcement for diagnostics/logging
 - Zero-trust foundation with least-privilege access and encryption at rest
 - Designed for quick spin-up/spin-down (estimated cost <$1–$5 for short testing)
-
+```
+azure-landing-zone/
+├── main.tf
+├── modules/
+│   ├── tfstate/
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   ├── networking/
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   └── security/
+│       ├── main.tf
+│       └── variables.tf
+└── README.md
+```
 For inquiries about collaboration, consulting engagements, or private repo access (under NDA), please reach out directly.
 
 Tyler Hudson -
