@@ -19,6 +19,6 @@ The actual Terraform code, modules, variables, configuration files, and sensitiv
 
 For inquiries about collaboration, consulting engagements, or private repo access (under NDA), please reach out directly.
 
-Tyler Hudson
+Tyler Hudson -
 Hudson I.T. Consulting  
 February 2026  
